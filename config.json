@@ -1,0 +1,34 @@
+{
+  "midAddr": "ivxv1.ep.ivxv.ee:443",
+  "choicesAddr": "ivxv1.ep.ivxv.ee:443",
+  "votingAddr": "ivxv1.ep.ivxv.ee:443",
+  "verificationAddr": "",
+
+  "caPath": "ca.pem",
+  "certPath": "",
+  "keyPath": "",
+
+  "serverName": "inttest.ivxv.ee",
+  "midServerName": "mid.inttest.ivxv.ee",
+  "choicesServerName": "choices.inttest.ivxv.ee",
+  "votingServerName": "voting.inttest.ivxv.ee",
+  "verificationServerName": "",
+
+  "sessionFile": ".session",
+  "authStateFile": ".auth-state.json",
+
+  "osName": "ivxv-codex-golang",
+  "timeout": "15s",
+
+  "authMethod": "",
+
+  "electionID": "KOV_2025_ELECTION_RESULTS",
+  "questionIDs": ["TESTQUESTION"],
+  "encKeyPath": "KOV_2025_ELECTION_RESULTS.pub.pem",
+  "idCode": "60001019906",
+  "phoneNo": "+37200000766",
+  "pollEvery": "2s",
+  "submitVote": true,
+  "saveVoteTo": "",
+  "origin": "https://ivxv1.ep.ivxv.ee:443"
+}
